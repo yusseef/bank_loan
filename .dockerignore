@@ -1,0 +1,17 @@
+# Ignore Python bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore environment files
+.env
+
+# Ignore local SQLite database
+*.sqlite3
+
+# Ignore test coverage data
+.coverage
+htmlcov/
+
+# Ignore Django static files (if collected)
+staticfiles/

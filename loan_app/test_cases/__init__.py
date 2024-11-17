@@ -1,0 +1,4 @@
+from .test_authentication import AuthenticationTestCase
+from .test_loan_provider import LoanProviderTestCase
+from .test_loan_customer import LoanCustomerTestCase
+from .test_bank_personnel import BankPersonnelTestCase
